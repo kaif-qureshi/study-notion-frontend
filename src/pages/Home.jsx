@@ -4,11 +4,10 @@
 import { FaArrowRight } from "react-icons/fa"
 import React from 'react'
 import { Link } from "react-router-dom"
-import CTAButton from "../components/core/Button"
+import CTAButton from "../components/core/HomePage/Button"
 import HighlightText from "../components/core/HomePage/HighlightText"
 import CodeBlocks from "../components/core/HomePage/CodeBlocks"
 import Banner from "../assets/Images/banner.mp4"
-import LearningLanguageSection from "../components/core/HomePage/LearningLanguageSection"
 import TimelineSection from "../components/core/HomePage/TimelineSection"
 
 const Home = () => {

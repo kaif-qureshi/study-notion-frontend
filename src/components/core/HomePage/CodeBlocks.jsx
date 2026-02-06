@@ -1,7 +1,7 @@
 
 import React from 'react'
 import { FaArrowRight } from "react-icons/fa";
-import CTAButton from "../Button";
+import CTAButton from "./Button";
 import { TypeAnimation } from "react-type-animation";
 
 
